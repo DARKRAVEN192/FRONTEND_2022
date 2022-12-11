@@ -1,0 +1,15 @@
+D:\Progtime2022\FRONTEND_2022\RenderingApp\bin\Debug\RenderingApp.exe.config
+D:\Progtime2022\FRONTEND_2022\RenderingApp\bin\Debug\RenderingApp.exe
+D:\Progtime2022\FRONTEND_2022\RenderingApp\bin\Debug\RenderingApp.pdb
+D:\Progtime2022\FRONTEND_2022\RenderingApp\obj\Debug\RenderingApp.csprojAssemblyReference.cache
+D:\Progtime2022\FRONTEND_2022\RenderingApp\obj\Debug\MainWindow.g.cs
+D:\Progtime2022\FRONTEND_2022\RenderingApp\obj\Debug\App.g.cs
+D:\Progtime2022\FRONTEND_2022\RenderingApp\obj\Debug\RenderingApp_MarkupCompile.cache
+D:\Progtime2022\FRONTEND_2022\RenderingApp\obj\Debug\RenderingApp_MarkupCompile.lref
+D:\Progtime2022\FRONTEND_2022\RenderingApp\obj\Debug\MainWindow.baml
+D:\Progtime2022\FRONTEND_2022\RenderingApp\obj\Debug\RenderingApp.g.resources
+D:\Progtime2022\FRONTEND_2022\RenderingApp\obj\Debug\RenderingApp.Properties.Resources.resources
+D:\Progtime2022\FRONTEND_2022\RenderingApp\obj\Debug\RenderingApp.csproj.GenerateResource.cache
+D:\Progtime2022\FRONTEND_2022\RenderingApp\obj\Debug\RenderingApp.csproj.CoreCompileInputs.cache
+D:\Progtime2022\FRONTEND_2022\RenderingApp\obj\Debug\RenderingApp.exe
+D:\Progtime2022\FRONTEND_2022\RenderingApp\obj\Debug\RenderingApp.pdb
