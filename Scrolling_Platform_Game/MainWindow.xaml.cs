@@ -23,6 +23,21 @@ namespace Scrolling_Platform_Game
         public MainWindow()
         {
             InitializeComponent();
+
+            ImageBrush iBrush = new ImageBrush();
+            iBrush.ImageSource = new BitmapImage(new Uri("pack://application:,,,/images/bg.jpeg"));
+
+            bg1.Fill = iBrush;
+        }
+
+        private void MapCanvas_KeyDown(object sender, KeyEventArgs e)
+        {
+
+        }
+
+        private void MapCanvas_KeyUp(object sender, KeyEventArgs e)
+        {
+
         }
     }
 }
